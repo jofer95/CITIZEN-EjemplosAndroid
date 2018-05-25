@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PruebaCitizenAndroidStudio.iml" filepath="$PROJECT_DIR$/PruebaCitizenAndroidStudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CITIZEN-EjemplosAndroid.iml" filepath="$PROJECT_DIR$/CITIZEN-EjemplosAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
